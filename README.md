@@ -5,7 +5,7 @@ This is an attempt to scrap the [stack overflow survey](https://survey.stackover
 Scraped Dataset:
 
 - Stack-Overflow Survey 2022 
-  - [CSV](https://github.com/Mr-Destructive/scraped-stackoverflow-survey/survey-2022/dataset/data.csv)
-  - [JSON](https://github.com/Mr-Destructive/scraped-stackoverflow-survey/survey-2022/dataset/data.json)
+  - [CSV](https://github.com/Mr-Destructive/scraped-stackoverflow-survey/blob/main/survey-2022/dataset/data.csv)
+  - [JSON](https://github.com/Mr-Destructive/scraped-stackoverflow-survey/blob/main/survey-2022/dataset/data.json)
 
 The scraping of the survey results was done with Python. Libraries like BeautifulSoup and requests were used for the core fetching and scraping of the survey results.
